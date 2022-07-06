@@ -1,0 +1,20 @@
+API
+
+HTTP verbs
+
+GET
+POST
+PUT 
+DELETE
+
+
+Response formats
+
+text
+html
+json
+xml
+
+<Bookname>C++</Bookname>
+
+{"Bookname":"C++"}
